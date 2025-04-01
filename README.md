@@ -21,14 +21,10 @@ The **Fintech Savings & Investment App** is a web-based application that allows 
 - **Styling**: Tailwind CSS
 - **API**: Custom API (for fetching and saving user data)
 
-![Project Preview](./fintechImage1.png)
-![Project Preview](./fintechImage2.png)
-![Project Preview](./fintechImage3.png)
+![Project Preview](./src/assets/fintechImage1.png)
+![Project Preview](./src/assets/fintechImage2.png)
+![Project Preview](./src/assets/fintechImage3.png)
 
+## 🚀 Live Demo
 
-
-## 🚀 Live Demo  
-🔗 [Visit the Website](https://social-media-website-vert.vercel.app/)
-
-
-
+🔗 [Visit the Website](https://fintechsavingsinvestmentapp.vercel.app/)
